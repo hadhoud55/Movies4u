@@ -23,7 +23,7 @@ To design a high-fidelity, interactive prototype for Movies4u that demonstrates 
 
 ## 📂 Project Files
 
-- `Movies4u_Prototype.xd` – Adobe XD file containing all screens and interactions  
+- `movies2.xd` – Adobe XD file containing all screens and interactions  
 - `README.md` – Project description and documentation  
 
 ---
